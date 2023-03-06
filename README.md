@@ -13,3 +13,5 @@ Now using the version of 4.8.4.
 20230306
 
 - use `Pick` to make sure the return value only contains the keys in the given object.
+- TS Overload & its alternatives.
+- Partial, Required, Pick, Exclude and Omit => combine these tools to set optional or set required attributes.
