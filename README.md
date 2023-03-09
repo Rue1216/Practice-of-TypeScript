@@ -19,3 +19,4 @@ Now using the version of 4.8.4.
 20230308
 
 - The usage of `keyof` and `as`.
+- The usage of `extends` and `infer`
